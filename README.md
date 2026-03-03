@@ -7,7 +7,7 @@ A modern and user-friendly Food Delivery Mobile App UI designed using Figma.
 ## 📱 App Screens
 
 ### 🔐 Login Screen
-![Login](Screenshots/login.png)
+![Login](Screenshots/Login.png)
 
 ### 🛒 Cart Screen
 ![Cart](Screenshots/cart.png)
